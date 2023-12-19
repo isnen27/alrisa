@@ -15,7 +15,7 @@ from gensim.models.coherencemodel import CoherenceModel
 # Extended File
 from preprocessing import preprocess, preprocess2, extract_text_from_pdf, word_page_count, save_to_txt, remove_name_and_date
 from clda import run_clda
-#from bert import run_bert
+from bert import run_bert
 from hybrid_tf_idf import run_hybrid_tf_idf
 from tf_idf import run_tf_idf
 from rouge_metric import run_rouge_metric
