@@ -159,7 +159,6 @@ multipledispatch
 munkres
 murmurhash
 mypy-extensions
-navigator-updater
 nbclassic
 nbclient
 nbconvert
