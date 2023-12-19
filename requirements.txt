@@ -233,7 +233,6 @@ pyflakes
 pyFUME
 Pygments
 PyHamcrest
-PyICU
 PyJWT
 pyLDAvis
 pylint
@@ -379,6 +378,7 @@ Werkzeug
 whatthepatch
 widgetsnbextension
 wikipedia
+wheel
 wordcloud
 wrapt
 wurlitzer
