@@ -1,10 +1,6 @@
---upgrade pip
 absl-py==1.4.0
 alabaster==0.7.12
 altair==5.0.1
-anaconda-client==1.11.2
-anaconda-navigator==2.4.0
-anaconda-project==0.11.1
 anyio==3.5.0
 AnyQt==0.2.0
 appdirs==1.4.4
