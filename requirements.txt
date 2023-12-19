@@ -177,8 +177,6 @@ oauthlib
 odfpy
 openpyxl
 openTSNE
-Owlready2
-packaging
 pandas
 pandocfilters
 panel
@@ -197,8 +195,6 @@ pep8
 pexpect
 pickleshare
 Pillow
-pip
-pip-downloader
 pipeline
 pkginfo
 platformdirs
