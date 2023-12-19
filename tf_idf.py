@@ -7,6 +7,7 @@ from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 from nltk.tokenize import sent_tokenize, word_tokenize
 nltk.download('punkt')
+nltk.download('stopwords')
 nltk.download('averaged_perceptron_tagger')
 Stopwords = set(stopwords.words('indonesian'))
 wordlemmatizer = WordNetLemmatizer()
