@@ -282,9 +282,6 @@ rope
 rouge
 rouge-score
 Rtree
-ruamel.yaml
-ruamel.yaml.clib
-ruamel-yaml-conda
 s3transfer
 sacremoses
 safetensors
