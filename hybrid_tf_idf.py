@@ -12,6 +12,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from collections import defaultdict
 from IPython.display import display, HTML
 
+nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 nltk.download('stopwords')
 Stopwords = set(stopwords.words('indonesian'))
