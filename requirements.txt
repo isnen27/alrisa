@@ -60,7 +60,6 @@ docstring-to-markdown
 docutils
 docx2txt
 downloader
-en-core-web-sm
 entrypoints
 et-xmlfile
 executing
