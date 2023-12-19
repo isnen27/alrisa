@@ -177,11 +177,6 @@ oauthlib
 odfpy
 openpyxl
 openTSNE
-orange-canvas-core
-orange-widget-base
-Orange3-Network
-Orange3-Text
-Orange3-Textable
 Owlready2
 packaging
 pandas
