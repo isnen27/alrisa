@@ -304,7 +304,7 @@ def main():
         # Tampilkan pilihan untuk meringkas teks: BERT, TF-IDF, atau Hybrid-TF_IDF
         st.subheader("Pilih metode meringkas teks:")
 
-        summary_option = st.radio("", ["TF-IDF", "Hybrid-TF-IDF", "CLDA"])
+        summary_option = st.radio("", ["BERT, "TF-IDF", "Hybrid-TF-IDF", "CLDA"])
         button_proses_ringkasan = st.button("Proses")
         # if button_proses_ringkasan:
         #     st.session_state.proses_ringkas = 1
