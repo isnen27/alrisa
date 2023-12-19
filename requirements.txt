@@ -305,7 +305,7 @@ simhash
 simpful
 sip
 six
-sklearn
+scikit-learn
 smart-open
 smmap
 sniffio
