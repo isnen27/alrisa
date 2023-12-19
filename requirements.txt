@@ -225,8 +225,6 @@ pycosat
 pycountry
 pycparser
 pyct
-pycurl
-pydantic
 pydeck
 PyDispatcher
 pydocstyle
@@ -251,10 +249,6 @@ pypdf
 PyPDF2
 pypdfium2
 pyproject-toml
-PyQt5
-PyQt5-Qt5
-PyQt5-sip
-pyqtgraph
 pyrsistent
 PySocks
 pytesseract
@@ -278,9 +272,6 @@ pyzmq
 qasync
 QDarkStyle
 qstylizer
-QtAwesome
-qtconsole
-QtPy
 queuelib
 regex
 requests
