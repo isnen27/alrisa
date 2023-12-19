@@ -377,7 +377,6 @@ webencodings
 websocket-client
 Werkzeug
 whatthepatch
-wheel
 widgetsnbextension
 wikipedia
 wordcloud
