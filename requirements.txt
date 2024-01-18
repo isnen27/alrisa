@@ -9,6 +9,7 @@ nltk
 numpy
 numpydoc
 oauthlib
+openpyxl
 openTSNE
 pandas
 pandocfilters
