@@ -1,5 +1,5 @@
 bert-extractive-summarizer
-gensim
+gensim==4.3.2
 Markdown
 markdown-it-py
 MarkupSafe
@@ -37,7 +37,7 @@ Sastrawi
 scikit-image
 scikit-learn
 scikit-learn-intelex
-scipy
+scipy==1.13.0
 Scrapy
 seaborn
 sentence-transformers
