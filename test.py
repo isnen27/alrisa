@@ -9,7 +9,7 @@ import nltk
 from nltk.tokenize import word_tokenize 
 from wordcloud import WordCloud
 from IPython.display import display, HTML
-from gensim import corpora
+#from gensim import corpora
 from gensim.models.coherencemodel import CoherenceModel
 
 # Extended File
