@@ -9,8 +9,8 @@ import nltk
 from nltk.tokenize import word_tokenize 
 from wordcloud import WordCloud
 from IPython.display import display, HTML
-#from gensim import corpora
-#from gensim.models.coherencemodel import CoherenceModel
+from gensim import corpora
+from gensim.models.coherencemodel import CoherenceModel
 
 # Extended File
 from preprocessing import preprocess, preprocess2, extract_text_from_pdf, word_page_count, save_to_txt, remove_name_and_date
