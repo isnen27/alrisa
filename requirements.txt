@@ -38,7 +38,6 @@ scikit-image
 scikit-learn
 scikit-learn-intelex
 scipy
-scipy.linalg
 Scrapy
 seaborn
 sentence-transformers
