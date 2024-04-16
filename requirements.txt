@@ -37,7 +37,7 @@ Sastrawi
 scikit-image
 scikit-learn
 scikit-learn-intelex
-scipy==1.13.0
+scipy==1.10.0
 Scrapy
 seaborn
 sentence-transformers
